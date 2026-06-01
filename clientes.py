@@ -56,4 +56,4 @@ def remover_cliente(cliente_id): # Função para Remover os clientes
     finally:
         cur.close()
         desconectar(conn)
-        #invincia cabrincia
+      
